@@ -1,0 +1,29 @@
+.logo img{
+    width: 180px;
+    padding: 5px;
+}
+#signUp{
+    background-color: #F91944;
+    border:1px solid #F91944;
+    border-radius: 30px;
+    padding: 10px 16px;
+}
+
+#cart, #Login{
+    padding: 10px 16px;
+    transition: all linear .4s;
+}
+#cart:hover, #Login:hover{
+    background-color: #F91944;
+    border:1px solid #F91944;
+    border-radius: 30px;
+    padding: 10px 16px;
+}
+.login ul{
+    float: right;
+}
+.login ul li{
+    float: left;
+    list-style: none;
+    margin: 5px;
+}
