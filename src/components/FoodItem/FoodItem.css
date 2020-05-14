@@ -1,0 +1,26 @@
+
+.foodDeck{
+    width: 30%;
+    height: 350px;
+    border: 3px inset #f91944;
+    border-radius: 5px;
+    margin: 10px 15px;
+    padding: 5px 15px;
+    float: left;
+    transition: all linear .4s;
+}
+.foodDeck:hover{
+    background-color: #f9194679;
+    box-shadow: 5px 5px 10px lightgray;
+    border: 3px solid #f9194679;
+    color: #fff;
+}
+.foodPhoto{
+    width: 70%;
+    height: 180px;
+    border-radius: 50%;
+    margin: 15px 5px;
+}
+.title{
+    font-size: 24px;
+}
